@@ -60,7 +60,7 @@ namespace BankingTests
 
             var userResult = await userService.TransferAmount(transferParams, user.Id);
 
-            var transferHistory = await userService.GetTransferHistory(null, user.Id);
+            var transferHistory = await userService.GetTransferHistory(user.Id);
 
             Assert.False(userResult.Errors.Any());
         }
@@ -137,7 +137,7 @@ namespace BankingTests
                 Sum = 10
             };
 
-            var userResult = await userService.GetUserBalance(null, user.Id);
+            var userResult = await userService.GetUserBalance(user.Id);
 
             Assert.False(userResult.Errors.Any());
         }
