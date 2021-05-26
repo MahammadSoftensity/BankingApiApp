@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Banking API</name>
+    </assembly>
+    <members>
+        <member name="M:Banking_API.Controllers.UserController.Register(BankingApp.Helpers.Params.UserParams)">
+            <summary>
+            register new user
+            </summary>
+        </member>
+    </members>
+</doc>
