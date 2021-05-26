@@ -28,6 +28,11 @@ namespace BankingApp.Services
                 .Include(x=>x.Accounts)
                 .FirstOrDefaultAsync(x => x.Id == userId);
 
+            if (accountParams.Sum < 0)
+            {
+                return new ServiceResult<UserDto>(new List<string> { "Incorrect sum" });
+            }
+
             user.Accounts.Add(new Account{ Sum = accountParams.Sum });
 
             await _dataContext.SaveChangesAsync();

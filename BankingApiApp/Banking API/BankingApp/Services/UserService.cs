@@ -78,6 +78,11 @@ namespace BankingApp.Services
             user.PassHash = hmac.ComputeHash(Encoding.UTF8.GetBytes(userParams.Password));
             user.PassSalt = hmac.Key;
 
+            if (userParams.Sum < 0)
+            {
+                return new ServiceResult<UserDto>(new List<string> { "Incorrect sum" });
+            }
+
             user.Accounts = new List<Account>
             {
                 new Account{ Sum = userParams.Sum }

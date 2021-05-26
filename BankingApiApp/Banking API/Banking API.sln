@@ -5,11 +5,13 @@ VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Banking API", "Banking API\Banking API.csproj", "{DB42EB03-60A8-4A37-890B-ADEBF92FFD59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingApp", "BankingApp\BankingApp.csproj", "{FBA9C624-BA2A-428B-AD98-E9CF733A075E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankingApp", "BankingApp\BankingApp.csproj", "{FBA9C624-BA2A-428B-AD98-E9CF733A075E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{F4404BEF-4569-4DC8-A5B3-DEDA51E256AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{F4404BEF-4569-4DC8-A5B3-DEDA51E256AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingEntities", "BankingEntities\BankingEntities.csproj", "{3480F263-C282-4607-B927-B8FE7128ECF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankingEntities", "BankingEntities\BankingEntities.csproj", "{3480F263-C282-4607-B927-B8FE7128ECF0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankingTests", "BankingTests\BankingTests.csproj", "{C53388E4-1CBE-4E7A-A6E8-6805330F188C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{3480F263-C282-4607-B927-B8FE7128ECF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3480F263-C282-4607-B927-B8FE7128ECF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3480F263-C282-4607-B927-B8FE7128ECF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C53388E4-1CBE-4E7A-A6E8-6805330F188C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C53388E4-1CBE-4E7A-A6E8-6805330F188C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C53388E4-1CBE-4E7A-A6E8-6805330F188C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C53388E4-1CBE-4E7A-A6E8-6805330F188C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

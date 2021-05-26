@@ -17,6 +17,6 @@ namespace BankingApp.DTOs
         }
 
         public T Result { get; set; }
-        public List<string> Errors { get; set; }
+        public List<string> Errors { get; set; } = new List<string>();
     }
 }
