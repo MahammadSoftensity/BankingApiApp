@@ -9,7 +9,7 @@ namespace BankingApp.Interfaces
     {
         Task<ServiceResult<UserDto>> AddUserAccount(AccountParams accountParams, int userId);
         Task<ServiceResult<UserDto>> TransferAmount(TransferAmountParams transferParams,int userId);
-        Task<ServiceResult<ICollection<BalanceDto>>> GetUserBalance(int? accountId, int userId);
-        Task<ServiceResult<ICollection<TransferHistoryDto>>> GetTransferHistory(int? accountId, int userId);
+        Task<ServiceResult<ICollection<BalanceDto>>> GetUserBalance(int userId, int? accountId = null);
+        Task<ServiceResult<ICollection<TransferHistoryDto>>> GetTransferHistory(int userId, int? accountId = null);
     }
 }

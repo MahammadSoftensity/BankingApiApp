@@ -96,7 +96,7 @@ namespace BankingApp.Services
             return new ServiceResult<UserDto>(userDto);
         }
 
-        public async Task<ServiceResult<ICollection<BalanceDto>>> GetUserBalance(int? accountId, int userId)
+        public async Task<ServiceResult<ICollection<BalanceDto>>> GetUserBalance(int userId, int? accountId = null)
         {
             if (accountId == null)
             {
@@ -115,7 +115,7 @@ namespace BankingApp.Services
             return new ServiceResult<ICollection<BalanceDto>>(_mapper.Map<ICollection<BalanceDto>>(new List<Account> { account }));
         }
 
-        public async Task<ServiceResult<ICollection<TransferHistoryDto>>> GetTransferHistory(int? accountId, int userId)
+        public async Task<ServiceResult<ICollection<TransferHistoryDto>>> GetTransferHistory(int userId, int? accountId = null)
         {
             if (accountId == null)
             {

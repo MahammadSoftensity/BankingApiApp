@@ -44,7 +44,7 @@ namespace Banking_API.Controllers
         [HttpGet("GetUserBalance")]
         public async Task<ActionResult<ICollection<BalanceDto>>> GetUserBalance(int? accountId)
         {
-            return ReturnResult(await _accountService.GetUserBalance(accountId, User.GetUserId()));
+            return ReturnResult(await _accountService.GetUserBalance( User.GetUserId(), accountId));
         }
 
         /// <summary>
@@ -53,7 +53,7 @@ namespace Banking_API.Controllers
         [HttpGet("GetTransferHistory")]
         public async Task<ActionResult<ICollection<TransferHistoryDto>>> GetTransferHistory(int? accountId)
         {
-            return ReturnResult(await _accountService.GetTransferHistory(accountId, User.GetUserId()));
+            return ReturnResult(await _accountService.GetTransferHistory( User.GetUserId(), accountId));
         }
     }
 }
