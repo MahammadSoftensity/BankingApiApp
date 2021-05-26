@@ -1,0 +1,130 @@
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\appsettings.Development.json
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\appsettings.json
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\Banking API.exe
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\Banking API.deps.json
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\Banking API.runtimeconfig.json
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\Banking API.runtimeconfig.dev.json
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\Banking API.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\ref\Banking API.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\Banking API.pdb
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\obj\Debug\net5.0\Banking API.csprojAssemblyReference.cache
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\obj\Debug\net5.0\Banking API.GeneratedMSBuildEditorConfig.editorconfig
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\obj\Debug\net5.0\Banking API.AssemblyInfoInputs.cache
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\obj\Debug\net5.0\Banking API.AssemblyInfo.cs
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\obj\Debug\net5.0\Banking API.csproj.CoreCompileInputs.cache
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\obj\Debug\net5.0\Banking API.MvcApplicationPartsAssemblyInfo.cs
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\obj\Debug\net5.0\Banking API.MvcApplicationPartsAssemblyInfo.cache
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\obj\Debug\net5.0\staticwebassets\Banking API.StaticWebAssets.Manifest.cache
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\obj\Debug\net5.0\staticwebassets\Banking API.StaticWebAssets.xml
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\obj\Debug\net5.0\scopedcss\bundle\Banking API.styles.css
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\obj\Debug\net5.0\Banking API.RazorTargetAssemblyInfo.cache
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\obj\Debug\net5.0\Banking API.csproj.CopyComplete
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\obj\Debug\net5.0\Banking API.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\obj\Debug\net5.0\ref\Banking API.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\obj\Debug\net5.0\Banking API.pdb
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\obj\Debug\net5.0\Banking API.genruntimeconfig.cache
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\AutoMapper.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\Humanizer.dll
+G:\PulseTestProject\net-developer-banking-api-xuqdzd\Banking API\Banking API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\PulseTestProject\Banking API\Banking API\obj\Debug\net5.0\Banking API.csprojAssemblyReference.cache
+G:\PulseTestProject\Banking API\Banking API\obj\Debug\net5.0\Banking API.GeneratedMSBuildEditorConfig.editorconfig
+G:\PulseTestProject\Banking API\Banking API\obj\Debug\net5.0\Banking API.AssemblyInfoInputs.cache
+G:\PulseTestProject\Banking API\Banking API\obj\Debug\net5.0\Banking API.AssemblyInfo.cs
+G:\PulseTestProject\Banking API\Banking API\obj\Debug\net5.0\Banking API.csproj.CoreCompileInputs.cache
+G:\PulseTestProject\Banking API\Banking API\obj\Debug\net5.0\Banking API.MvcApplicationPartsAssemblyInfo.cache
+G:\PulseTestProject\Banking API\Banking API\obj\Debug\net5.0\Banking API.dll
+G:\PulseTestProject\Banking API\Banking API\obj\Debug\net5.0\ref\Banking API.dll
+G:\PulseTestProject\Banking API\Banking API\obj\Debug\net5.0\Banking API.pdb
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\appsettings.Development.json
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\appsettings.json
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\Banking API.exe
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\Banking API.deps.json
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\Banking API.runtimeconfig.json
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\Banking API.runtimeconfig.dev.json
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\Banking API.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\ref\Banking API.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\Banking API.pdb
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\AutoMapper.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\BankingApp.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\BankingEntities.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\DataAccessLayer.dll
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\BankingApp.pdb
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\BankingEntities.pdb
+G:\PulseTestProject\Banking API\Banking API\bin\Debug\net5.0\DataAccessLayer.pdb
+G:\PulseTestProject\Banking API\Banking API\obj\Debug\net5.0\Banking API.MvcApplicationPartsAssemblyInfo.cs
+G:\PulseTestProject\Banking API\Banking API\obj\Debug\net5.0\staticwebassets\Banking API.StaticWebAssets.Manifest.cache
+G:\PulseTestProject\Banking API\Banking API\obj\Debug\net5.0\staticwebassets\Banking API.StaticWebAssets.xml
+G:\PulseTestProject\Banking API\Banking API\obj\Debug\net5.0\scopedcss\bundle\Banking API.styles.css
+G:\PulseTestProject\Banking API\Banking API\obj\Debug\net5.0\Banking API.RazorTargetAssemblyInfo.cache
+G:\PulseTestProject\Banking API\Banking API\obj\Debug\net5.0\Banking API.csproj.CopyComplete
+G:\PulseTestProject\Banking API\Banking API\obj\Debug\net5.0\Banking API.genruntimeconfig.cache
